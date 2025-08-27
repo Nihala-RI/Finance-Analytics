@@ -18,6 +18,15 @@ The Excel file contains the following data tables:
 
 ---
 
+## 📸 Dashboard Previews  
+
+**P&L by Year View**  
+![P&L by Year](mockup_views\mockup_view_1.png)  
+
+**P&L by Month View**  
+![P&L by Month](mockup_views\mockup_view_2.png)  
+
+
 ## 🔄 Power Query Steps
 
 ### 1. Import & Prepare Data
